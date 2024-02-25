@@ -1,0 +1,10 @@
+C:\Users\lj67s\source\repos\Minecraft-ServerCreator\Minecraft-ServerCreator\bin\Debug\Minecraft-ServerCreator.exe.config
+C:\Users\lj67s\source\repos\Minecraft-ServerCreator\Minecraft-ServerCreator\bin\Debug\Minecraft-ServerCreator.exe
+C:\Users\lj67s\source\repos\Minecraft-ServerCreator\Minecraft-ServerCreator\bin\Debug\Minecraft-ServerCreator.pdb
+C:\Users\lj67s\source\repos\Minecraft-ServerCreator\Minecraft-ServerCreator\obj\Debug\Minecraft-ServerCreator.csproj.AssemblyReference.cache
+C:\Users\lj67s\source\repos\Minecraft-ServerCreator\Minecraft-ServerCreator\obj\Debug\Minecraft_ServerCreator.Form1.resources
+C:\Users\lj67s\source\repos\Minecraft-ServerCreator\Minecraft-ServerCreator\obj\Debug\Minecraft_ServerCreator.Properties.Resources.resources
+C:\Users\lj67s\source\repos\Minecraft-ServerCreator\Minecraft-ServerCreator\obj\Debug\Minecraft-ServerCreator.csproj.GenerateResource.cache
+C:\Users\lj67s\source\repos\Minecraft-ServerCreator\Minecraft-ServerCreator\obj\Debug\Minecraft-ServerCreator.csproj.CoreCompileInputs.cache
+C:\Users\lj67s\source\repos\Minecraft-ServerCreator\Minecraft-ServerCreator\obj\Debug\Minecraft-ServerCreator.exe
+C:\Users\lj67s\source\repos\Minecraft-ServerCreator\Minecraft-ServerCreator\obj\Debug\Minecraft-ServerCreator.pdb
